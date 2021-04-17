@@ -1,9 +1,10 @@
 import './index.css';
+import { Desktop } from './components/index';
 
 function App() {
 	return (
 		<div>
-			<p className='text-red-500'>You have a new </p>
+			<Desktop />
 		</div>
 	);
 }
