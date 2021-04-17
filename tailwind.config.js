@@ -9,6 +9,8 @@ module.exports = {
 
 			secondary: '#4CC34C',
 
+			clock: '#0992F1',
+
 			danger: '#e3342f',
 		}),
 		extend: {},
