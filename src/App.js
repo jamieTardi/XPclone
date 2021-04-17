@@ -1,11 +1,10 @@
 import './index.css';
-import { Desktop, Taskbar } from './components/index';
+import { Desktop } from './components/index';
 
 function App() {
 	return (
-		<div>
+		<div className='w-screen h-screen'>
 			<Desktop />
-			<Taskbar />
 		</div>
 	);
 }
